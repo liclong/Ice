@@ -1,0 +1,13 @@
+com.huawei.camera/.controller.CameraActivity
+com.tencent.tmgp.sgame/.SGameActivity
+com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity
+com.netflix.mediaclient/.ui.launch.UIWebViewActivity
+me.lyft.android/.ui.MainActivity
+com.whatsapp/.Main
+com.skype.raider/com.skype4life.MainActivity
+com.facebook.katana/com.facebook.account.login.activity.SimpleLoginActivity
+org.mozilla.firefox/org.mozilla.firefox.App
+com.android.chrome/com.google.android.apps.chrome.Main
+com.huawei.appmarket/.MainActivity
+com.android.gallery3d/com.huawei.gallery.app.GalleryMain
+com.huawei.wallet/.view.MainActivity
